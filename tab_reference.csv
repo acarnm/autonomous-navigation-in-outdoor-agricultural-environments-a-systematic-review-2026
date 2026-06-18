@@ -1,0 +1,9 @@
+ID,Title,Reference
+SR1,"CROW: A Self-Supervised Crop Row Navigation Algorithm for Agricultural Fields",\cite{Affonso2025}
+SR2,"Robotic mowing of living crop cover as an alternative to plastic mulch: An approach for red fruit macro-tunnels",\cite{BAYANOTEJERO2025110924}
+SR3,"Navigation and control development for a four-wheel-steered mobile orchard robot using model-based design",\cite{RAIKWAR2022107410}
+SR4,"Minimum-time row transition control of a vision-guided agricultural robot",\cite{Li2022}
+SR5,"Augmented Perception for Agricultural Robots Navigation",\cite{RoviraMas2021}
+SR6,"CropNav: a Framework for Autonomous Navigation in Real Farms",\cite{10160990}
+SR7,"A Row Crop Following Behavior based on Primitive Fuzzy Behaviors for Navigation System of Agricultural Robots",\cite{DESOUSA201391}
+SR8,"End-to-end Learning for Autonomous Crop Row-following",\cite{BAKKEN2019102}

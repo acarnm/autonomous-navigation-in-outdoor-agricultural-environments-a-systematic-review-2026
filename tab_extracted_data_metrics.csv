@@ -1,0 +1,13 @@
+ID,Envi.,Evaluation Metrics
+AD1,Real World,"Distance per intervention, Number of interventions, Navigation success rate, Trajectory tracking error, Mode-switching statistics"
+AD2,Both,"Collision rate, Average distance per collision, Distance covered, Time to complete row, Success/failure cases"
+AD4,Both,"Transition time, Tracking error (lateral and heading), Path smoothness/curvature, Control effort, Success rate of transitions"
+AD5,Real World,"Translation MSE, Processing time, Accuracy/Precision/Recall/F1-score, Confusion matrix, Detection metrics, Lateral error, mAP"
+AD6,Both,"Steering offset error, Peak and average offset, RMSD, Correlation coefficient, Velocity tracking, Yaw rate, Path tracking accuracy"
+AD7,Real World,"Lateral deviation, Risk ratio, Steering stability/angular variation, Obstacle density vs performance, Failure cases/recovery events"
+AD8,Real World,"Mean Distance Between Interventions (MDBI), Generalisation Gain, Absolute Trajectory Error (ATE), Location/frequency of interventions, Lateral error"
+AD9,Both,"Energy consumption, Path optimisation performance, Power variability, Terrain modelling suitability, Computational requirements"
+AD10,Both,"Fréchet distance, Mowing coverage percentage, Operation time and battery autonomy"
+AD11,Real World,"Perception metrics (mIoU, PixAcc, mAcc, GFlops, Parameters, FPS), Lateral deviation during turning maneuver"
+AD12,Real World,"Mean absolute tracking error (3.74 cm), Lateral and heading deviation, Row detection accuracy across growth stages and illumination conditions"
+AD13,Both,"Positioning accuracy, Lateral error, Heading error, Path tracking performance"

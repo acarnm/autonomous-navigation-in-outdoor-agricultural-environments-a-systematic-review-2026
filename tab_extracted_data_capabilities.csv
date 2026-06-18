@@ -1,0 +1,13 @@
+ID,Robot Skills,Full Auto.
+AD1,"Autonomous nav., Perception, Planning",Yes
+AD2,"Autonomous nav., Perception, Planning",No
+AD4,"Perception, Semi-autonomous nav.",No
+AD5,"Autonomous nav., Perception",No
+AD6,"Autonomous nav., Perception, Planning, Obstacle avoidance",Yes
+AD7,"Autonomous nav., Perception, Planning, Obstacle avoidance",No
+AD8,"Autonomous nav., Perception, Planning",Yes
+AD9,"Autonomous nav., Perception, Planning",No
+AD10,"Autonomous nav., Perception, Planning, Obstacle avoidance",Yes
+AD11,Perception,No
+AD12,"Autonomous nav., Perception, Planning",No
+AD13,"Autonomous nav., Planning",No

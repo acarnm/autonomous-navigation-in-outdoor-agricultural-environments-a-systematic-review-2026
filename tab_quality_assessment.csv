@@ -1,0 +1,11 @@
+Question ID,Assessment Question
+QA1,Is there a clear definition of the research objectives?
+QA2,Is there a clear definition of the conclusions?
+QA3,Does it contain an adequate description of the research context?
+QA4,Is there a clear diagram of the navigation architecture?
+QA5,Are the components of the navigation architecture described?
+QA6,Is the research design appropriate?
+QA7,Was a validation or experimentation phase carried out during the research?
+QA8,Has the navigation been tested on real robots?
+QA9,Is there a clear reference to the results obtained?
+QA10,Is the study valuable for research or practice?

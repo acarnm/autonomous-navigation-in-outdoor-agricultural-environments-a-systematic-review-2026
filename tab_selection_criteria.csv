@@ -1,0 +1,14 @@
+Criterion Type,Description
+,,Inclusion Criteria
+IC1: Autonomous robot,Studies focusing on autonomous or semi-autonomous robotic systems with navigation capabilities
+IC2: Experimentation and validation,Publications presenting experimental results or validation procedures
+IC3: Usage in real world,Research demonstrating or targeting real-world agricultural applications
+,,Exclusion Criteria
+EC1: Indoor environments,Studies exclusively focused on indoor or controlled greenhouse settings
+EC2: Non-UGV platforms,Publications not addressing unmanned ground vehicles (excluding aerial, underwater, or other non-ground platforms)
+EC3: Non-English language,Publications not written in English
+EC4: No navigation focus,Studies not addressing autonomous navigation systems or strategies
+EC5: Simulation only,Research presenting only simulated results without real-world validation
+EC6: Undefined navigation strategy,Publications lacking clear description of navigation architecture or methodology
+EC7: Inadequate robot size,Robots not suitable for furrow navigation due to inappropriate dimensions
+EC8: Proceeding type,Conference proceedings, extended abstracts, or other non-peer-reviewed publications

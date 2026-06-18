@@ -1,0 +1,8 @@
+Field Name,Field Type,Options/Description
+Application Domain,Multiple answer,"Agriculture, Forestry, Other outdoor, Spatial"
+Type of field,Multiple answer,"Semi-structured (Human made), Structured (Human made for robots), Unstructured (No human made)"
+Type of platform,Multiple answer,"Wheeled robot, Tracked robot, Legged robot, Other"
+Robot's skill,Multiple answer,"Autonomous navigation, Manipulation, Obstacle Avoidance, Perception, Planning, Semi-autonomous navigation"
+Does the robot perform complete autonomous navigation?,Boolean,Yes/No
+Environment,Multiple answer,"Both, Real World, Simulation"
+What evaluation metrics are used?,String,Open text field
