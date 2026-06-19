@@ -1,19 +1,18 @@
 ID,Publication Title,Score
 AD1,"CropNav: a Framework for Autonomous Navigation in Real Farms",9.5
 AD2,"CROW: A Self-Supervised Crop Row Navigation Algorithm for Agricultural Fields",9.0
-AD3,"Towards Semi-autonomous Robotic Inspection and Mapping in Confined Spaces with the EspeleoRobô",9.0
-AD4,"Minimum-time row transition control of a vision-guided agricultural robot",8.5
-AD5,"Under-Canopy Navigation for an Agricultural Rover Based on Image Data",8.5
-AD6,"Navigation and control development for a four-wheel-steered mobile orchard robot using model-based design",8.0
-AD7,"Augmented Perception for Agricultural Robots Navigation",8.0
-AD8,"Visual teach and generalise (VTAG)—Exploiting perceptual aliasing for scalable autonomous robotic navigation in horticultural environments",8.0
-AD9,"Chapter 5 - Capturing agricultural data using AgriRover for smart farming",7.5
-AD10,"Robotic mowing of living crop cover as an alternative to plastic mulch: An approach for red fruit macro-tunnels",7.5
-AD11,"Navigation path extraction for farmland headlands via red-green-blue and depth multimodal fusion based on an improved DeepLabv3+ model",7.5
-AD12,"Robust crop row detection using discrete Fourier transform (DFT) for vision-based in-field navigation",7.0
-AD13,"Design and experiment of an integrated navigation system for a paddy field scouting robot",7.0
-AD14,"A heterogeneous sensing system for soil moisture mapping in agricultural environments",6.5
-AD15,"Vision-based trajectory generation and tracking algorithm for maneuvering of a paddy field robot",6.5
-AD16,"Using a depth camera for crop row detection and mapping for under-canopy navigation of agricultural robotic vehicle",6.0
-AD17,"Fusing vegetation index and ridge segmentation for robust vision-based autonomous navigation of agricultural robots in vegetable farms",6.0
-AD18,"Fields2Benchmark: An open-source benchmark for coverage path planning methods in agriculture",5.5
+AD3,"Minimum-time row transition control of a vision-guided agricultural robot",8.5
+AD4,"Under-Canopy Navigation for an Agricultural Rover Based on Image Data",8.5
+AD5,"Navigation and control development for a four-wheel-steered mobile orchard robot using model-based design",8.0
+AD6,"Augmented Perception for Agricultural Robots Navigation",8.0
+AD7,"Visual teach and generalise (VTAG)—Exploiting perceptual aliasing for scalable autonomous robotic navigation in horticultural environments",8.0
+AD8,"Chapter 5 - Capturing agricultural data using AgriRover for smart farming",7.5
+AD9,"Robotic mowing of living crop cover as an alternative to plastic mulch: An approach for red fruit macro-tunnels",7.5
+AD10,"Navigation path extraction for farmland headlands via red-green-blue and depth multimodal fusion based on an improved DeepLabv3+ model",7.5
+AD11,"Robust crop row detection using discrete Fourier transform (DFT) for vision-based in-field navigation",7.0
+AD12,"Design and experiment of an integrated navigation system for a paddy field scouting robot",7.0
+AD13,"A heterogeneous sensing system for soil moisture mapping in agricultural environments",6.5
+AD14,"Vision-based trajectory generation and tracking algorithm for maneuvering of a paddy field robot",6.5
+AD15,"Using a depth camera for crop row detection and mapping for under-canopy navigation of agricultural robotic vehicle",6.0
+AD16,"Fusing vegetation index and ridge segmentation for robust vision-based autonomous navigation of agricultural robots in vegetable farms",6.0
+AD17,"Fields2Benchmark: An open-source benchmark for coverage path planning methods in agriculture",5.5
